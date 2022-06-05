@@ -10,11 +10,9 @@ I love to share my experience and learning through blogs. I am working towards g
 <a href="https://www.instagram.com/iamfaisalkhatri/"> <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 <a href="https://medium.com/@iamfaisalkhatri"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
 <p><a href="https://mfaisalkhatri.github.io">➡️Check out my website</a></p>
-<a href="https://www.buymeacoffee.com/fkhatri" target="_blank" rel="noreferrer nofollow">
-<img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-</a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=mfaisalkhatri.mfaisalkhatri)
+- 💼 Any freelance work or paid trainings on Software Testing/Test Automation? do reach, [email](mailto:mohammadfaisalkhatri@gmail.com) :)
+- 💬 Ask me about anything related to Software Testing/Test Automation, I would be happy to help!
 
 <div align="center">
   <h2>📊 Profile stats</h2>
@@ -24,6 +22,12 @@ I love to share my experience and learning through blogs. I am working towards g
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfaisalkhatri&hide=scss,css,html&theme=dark&layout=compact)
 
 </div>
+
+If you like my work, please consider buyiing me a tea/coffee:
+
+<a href="https://www.buymeacoffee.com/fkhatri" target="_blank" rel="noreferrer nofollow">
+<img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+</a>
 
 <div align="center">
   <h2>🎉 Check out some of my repositories</h2>
