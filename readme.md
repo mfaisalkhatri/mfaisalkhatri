@@ -1,5 +1,8 @@
 ![faisal-banner](https://user-images.githubusercontent.com/18361917/172057901-fe99a591-766a-4a34-af80-6e8507ed5408.png)
 
+![visitor](https://visitor-badge.glitch.me/badge?page_id=mfaisalkhatri.mfaisalkhatri)
+
+<br/>
 Hi, I'm Faisal Khatri, a passionate self-taught Software Testing Professional from Mumbai, India.
 
 I am an open-source enthusiast and maintainer. I have learned a lot from the open-source community. 
@@ -13,6 +16,7 @@ I love to share my experience and learning through blogs. I am working towards g
 
 - 💼 Any freelance work or paid trainings on Software Testing/Test Automation? do reach, [email](mailto:mohammadfaisalkhatri@gmail.com) :)
 - 💬 Ask me about anything related to Software Testing/Test Automation, I would be happy to help!
+
 
 <div align="center">
   <h2>📊 Profile stats</h2>
