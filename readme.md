@@ -28,11 +28,11 @@ I love to share my experience and learning through blogs. I am working towards g
 <div align="center">
   <h2>🎉 Check out some of my repositories</h2>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mfaisalkhatri&repo=Manual_Testing&theme=dark)(https://github.com/mfaisalkhatri/Manual_Testing)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mfaisalkhatri&repo=OkHttpRestAssuredExamples&theme=dark)](https://github.com/mfaisalkhatri/OkHttpRestAssuredExamples)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mfaisalkhatri&repo=selenium4poc&theme=dark)](https://github.com/mfaisalkhatri/selenium4poc)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mfaisalkhatri&repo=supertestpoc&theme=dark)](https://github.com/mfaisalkhatri/SuperTest_poc)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mfaisalkhatri&repo=SuperTest_poc&theme=dark)](https://github.com/mfaisalkhatri/SuperTest_poc)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mfaisalkhatri&repo=rest-assured-examples&theme=dark)](https://github.com/mfaisalkhatri/rest-assured-examples)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mfaisalkhatri&repo=Manual_Testing&theme=dark)](https://github.com/mfaisalkhatri/Manual_Testing)
 
 </div>
 
