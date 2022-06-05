@@ -1,6 +1,6 @@
 ![faisal-banner](https://user-images.githubusercontent.com/18361917/172057901-fe99a591-766a-4a34-af80-6e8507ed5408.png)
 
-![visitor](https://visitor-badge.glitch.me/badge?page_id=mfaisalkhatri.mfaisalkhatri)
+![](https://visitor-badge.glitch.me/badge?page_id=mfaisalkhatri.mfaisalkhatri)
 
 <br/>
 Hi, I'm Faisal Khatri, a passionate self-taught Software Testing Professional from Mumbai, India.
