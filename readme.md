@@ -23,7 +23,7 @@ I love to share my experience and learning through blogs. I am working towards g
 
 ![Faisal's GitHub Stats](https://github-readme-stats-faisal.vercel.app/api?username=mfaisalkhatri&show_icons=true&theme=radical)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfaisalkhatri&hide=scss,css,html&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats-faisal.vercel.app/api/top-langs/?username=mfaisalkhatri&hide=scss,css,html&theme=dark&layout=compact)
 
 </div>
 
@@ -36,12 +36,12 @@ If you like my work, please consider buying me a tea/coffee:
 <div align="center">
   <h2>🎉 Check out some of my repositories</h2>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mfaisalkhatri&repo=OkHttpRestAssuredExamples&theme=dark)](https://github.com/mfaisalkhatri/OkHttpRestAssuredExamples)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mfaisalkhatri&repo=selenium4poc&theme=dark)](https://github.com/mfaisalkhatri/selenium4poc)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mfaisalkhatri&repo=SuperTest_poc&theme=dark)](https://github.com/mfaisalkhatri/SuperTest_poc)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mfaisalkhatri&repo=rest-assured-examples&theme=dark)](https://github.com/mfaisalkhatri/rest-assured-examples)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BoykaFramework&repo=boyka-framework&theme=dark)](https://github.com/BoykaFramework/boyka-framework)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mfaisalkhatri&repo=Manual_Testing&theme=dark)](https://github.com/mfaisalkhatri/Manual_Testing)
+[![ReadMe Card](https://github-readme-stats-faisal.vercel.app/api/pin/?username=mfaisalkhatri&repo=OkHttpRestAssuredExamples&theme=dark)](https://github.com/mfaisalkhatri/OkHttpRestAssuredExamples)
+[![ReadMe Card](https://github-readme-stats-faisal.vercel.app/api/pin/?username=mfaisalkhatri&repo=selenium4poc&theme=dark)](https://github.com/mfaisalkhatri/selenium4poc)
+[![ReadMe Card](https://github-readme-stats-faisal.vercel.app/api/pin/?username=mfaisalkhatri&repo=SuperTest_poc&theme=dark)](https://github.com/mfaisalkhatri/SuperTest_poc)
+[![ReadMe Card](https://github-readme-stats-faisal.vercel.app/api/pin/?username=mfaisalkhatri&repo=rest-assured-examples&theme=dark)](https://github.com/mfaisalkhatri/rest-assured-examples)
+[![ReadMe Card](https://github-readme-stats-faisal.vercel.app/api/pin/?username=BoykaFramework&repo=boyka-framework&theme=dark)](https://github.com/BoykaFramework/boyka-framework)
+[![ReadMe Card](https://github-readme-stats-faisal.vercel.app/api/pin/?username=mfaisalkhatri&repo=Manual_Testing&theme=dark)](https://github.com/mfaisalkhatri/Manual_Testing)
 
 </div>
 
