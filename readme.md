@@ -21,7 +21,7 @@ I love to share my experience and learning through blogs. I am working towards g
 <div align="center">
   <h2>📊 Profile stats</h2>
 
-![Faisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfaisalkhatri&show_icons=true&theme=radical)
+![Faisal's GitHub Stats](https://github-readme-stats-faisal.vercel.app/api?username=mfaisalkhatri&show_icons=true&theme=radical)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfaisalkhatri&hide=scss,css,html&theme=dark&layout=compact)
 
