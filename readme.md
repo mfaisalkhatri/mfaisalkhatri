@@ -36,6 +36,7 @@ If you like my work, please consider buying me a tea/coffee:
   <h2>🎉 Checkout my open source projects</h2>
 
 [![ReadMe Card](https://github-readme-stats-faisal.vercel.app/api/pin/?username=mfaisalkhatri&repo=awesome-learning&theme=dark)](https://github.com/mfaisalkhatri/awesome-learning)
+[![ReadMe Card](https://github-readme-stats-faisal.vercel.app/api/pin/?username=mfaisalkhatri&repo=restful-ecommerce&theme=dark)](/https://github.com/mfaisalkhatri/restful-ecommerce)  
 [![ReadMe Card](https://github-readme-stats-faisal.vercel.app/api/pin/?username=mfaisalkhatri&repo=api-testing-playwright-java-testng&theme=dark)](https://github.com/mfaisalkhatri/api-testing-playwright-java-testng)  
 [![ReadMe Card](https://github-readme-stats-faisal.vercel.app/api/pin/?username=mfaisalkhatri&repo=SuperTest_poc&theme=dark)](https://github.com/mfaisalkhatri/SuperTest_poc)
 [![ReadMe Card](https://github-readme-stats-faisal.vercel.app/api/pin/?username=mfaisalkhatri&repo=selenium4poc&theme=dark)](https://github.com/mfaisalkhatri/selenium4poc)
