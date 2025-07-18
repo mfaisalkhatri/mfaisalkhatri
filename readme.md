@@ -3,7 +3,7 @@
 <br/>
 Hi, I'm Faisal Khatri, a passionate self-taught Software Testing Professional from Mumbai, India.
 
-I am an open-source enthusiast and maintainer. I have learned a lot from the open-source community. 
+I am an open-source enthusiast and maintainer, and have learned a lot from the open-source community. 
 I love to share my experience and learning through blogs. I am working towards giving back to the community what I have learned from it.
 
 <p><a href="https://www.twitter.com/mfaisal_khatri"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
@@ -13,7 +13,7 @@ I love to share my experience and learning through blogs. I am working towards g
 <p><a href="https://mfaisalkhatri.github.io">➡️Check out my website</a></p>
 
 
-- 💼 Do reach [email](mailto:mohammadfaisalkhatri@gmail.com) for any freelance work or paid trainings on Software Testing/Test Automation.
+- 💼 Do reach [email](mailto:mohammadfaisalkhatri@gmail.com) for any freelance work or paid training on Software Testing/Test Automation.
 - 💬 Ask me about anything related to Software Testing/Test Automation, I will be happy to help!
 
 
@@ -41,7 +41,7 @@ If you like my work, please consider buying me a tea/coffee:
 [![ReadMe Card](https://github-readme-stats-faisal.vercel.app/api/pin/?username=mfaisalkhatri&repo=SuperTest_poc&theme=dark)](https://github.com/mfaisalkhatri/SuperTest_poc)
 [![ReadMe Card](https://github-readme-stats-faisal.vercel.app/api/pin/?username=mfaisalkhatri&repo=selenium4poc&theme=dark)](https://github.com/mfaisalkhatri/selenium4poc)
 [![ReadMe Card](https://github-readme-stats-faisal.vercel.app/api/pin/?username=mfaisalkhatri&repo=rest-assured-examples&theme=dark)](https://github.com/mfaisalkhatri/rest-assured-examples)
-[![ReadMe Card](https://github-readme-stats-faisal.vercel.app/api/pin/?username=BoykaFramework&repo=boyka-framework&theme=dark)](https://github.com/BoykaFramework/boyka-framework)
+[![ReadMe Card](https://github-readme-stats-faisal.vercel.app/api/pin/?username=BoykaFramework&repo=appium-java-examples&theme=dark)](https://github.com/mfaisalkhatri/appium-java-examples)
 [![ReadMe Card](https://github-readme-stats-faisal.vercel.app/api/pin/?username=mfaisalkhatri&repo=Manual_Testing&theme=dark)](https://github.com/mfaisalkhatri/Manual_Testing)
 
 
