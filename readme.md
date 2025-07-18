@@ -41,7 +41,7 @@ If you like my work, please consider buying me a tea/coffee:
 [![ReadMe Card](https://github-readme-stats-faisal.vercel.app/api/pin/?username=mfaisalkhatri&repo=SuperTest_poc&theme=dark)](https://github.com/mfaisalkhatri/SuperTest_poc)
 [![ReadMe Card](https://github-readme-stats-faisal.vercel.app/api/pin/?username=mfaisalkhatri&repo=selenium4poc&theme=dark)](https://github.com/mfaisalkhatri/selenium4poc)
 [![ReadMe Card](https://github-readme-stats-faisal.vercel.app/api/pin/?username=mfaisalkhatri&repo=rest-assured-examples&theme=dark)](https://github.com/mfaisalkhatri/rest-assured-examples)
-[![ReadMe Card](https://github-readme-stats-faisal.vercel.app/api/pin/?username=BoykaFramework&repo=appium-java-examples&theme=dark)](https://github.com/mfaisalkhatri/appium-java-examples)
+[![ReadMe Card](https://github-readme-stats-faisal.vercel.app/api/pin/?username=mfaisalkhatri&repo=appium-java-examples&theme=dark)](https://github.com/mfaisalkhatri/appium-java-examples)
 [![ReadMe Card](https://github-readme-stats-faisal.vercel.app/api/pin/?username=mfaisalkhatri&repo=Manual_Testing&theme=dark)](https://github.com/mfaisalkhatri/Manual_Testing)
 
 
